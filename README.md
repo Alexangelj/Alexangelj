@@ -4,6 +4,7 @@
 - Yearn vault and strategy using Primitive Option pools
 - Badger Sett strategy
 - Peer review of V1 mainnet contracts
+- Bring V1 connector contracts with ETH abstraction to production
 - Dune dashboard
 - Protocol dashboard
 - Adapters to Zerion/Zapper
