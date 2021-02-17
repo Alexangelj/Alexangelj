@@ -10,4 +10,6 @@
 - Adapters to Zerion/Zapper
 - Protocol documentation
 - User guides
+- Primitive protocol address leaderboard
+- NFTX index options?
 
