@@ -1,5 +1,7 @@
-### Open Bounties for Primitive
-#### Join the Primitive discord https://discord.gg/rzRwJ4K
+### Primitive has MEV
+#### Join the Primitive discord https://discord.gg/primitive
 
-- Dune dashboard
+- Spot arbitrage
+- Volatility arbitrage
+- Liquidity manipulation/sandwiching
 
