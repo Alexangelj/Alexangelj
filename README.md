@@ -11,7 +11,7 @@ evm wizard
 - [Next.js](https://github.com/Alexangelj/nxt)
 - [Typescript](https://github.com/Alexangelj/ts)
 - [Solidity](todo)
-- [Rust](todo)
+- [Rust & Solidity](https://github.com/Alexangelj/sol-rs)
 
 ## Primitive
 - https://github.com/primitivefinance/portfolio
