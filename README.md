@@ -1,6 +1,4 @@
-![](https://user-images.githubusercontent.com/38409137/251842795-941d7760-1d62-49e5-841f-571793bd14d5.png)
-
-evm wizard
+evm
 
 ## In progress
 - algorithmic fund data api
