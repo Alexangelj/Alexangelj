@@ -1,9 +1,5 @@
-evm
-
 ## In progress
-- algorithmic fund data api
-- create3 factory management app
-- evm monitoring rust cli
+- https://github.com/primitivefinance/m3-rs/tree/main
 
 ## Templates
 - [Next.js](https://github.com/Alexangelj/nxt)
