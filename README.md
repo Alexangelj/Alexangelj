@@ -1,7 +1,5 @@
-## In progress
+**wip**
 - https://github.com/primitivefinance/m3-rs/tree/main
-
-## Sol
+**sol**
 - https://github.com/primitivefinance/portfolio
-- https://github.com/primitivefinance/solstat
 - https://github.com/primitivefinance/rmm-core
